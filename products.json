@@ -6,7 +6,7 @@
    },
    "fields": {
     "title": "queen panel bed",
-    "price": 10.99,
+    "price": 15000 ,
     "image": {
      "fields": {
       "file": {
@@ -22,7 +22,7 @@
    },
    "fields": {
     "title": "king panel bed",
-    "price": 12.99,
+    "price": 10000,
     "image": {
      "fields": {
       "file": {
@@ -38,7 +38,7 @@
    },
    "fields": {
     "title": "single panel bed",
-    "price": 12.99,
+    "price": 8000 ,
     "image": {
      "fields": {
       "file": {
@@ -54,7 +54,7 @@
    },
    "fields": {
     "title": "twin panel bed",
-    "price": 22.99,
+    "price": 9000,
     "image": {
      "fields": {
       "file": {
@@ -70,7 +70,7 @@
    },
    "fields": {
     "title": "fridge",
-    "price": 88.99,
+    "price": 7500,
     "image": {
      "fields": {
       "file": {
@@ -86,7 +86,7 @@
    },
    "fields": {
     "title": "dresser",
-    "price": 32.99,
+    "price": 5000,
     "image": {
      "fields": {
       "file": {
@@ -102,7 +102,7 @@
    },
    "fields": {
     "title": "couch",
-    "price": 45.99,
+    "price": 6999,
     "image": {
      "fields": {
       "file": {
@@ -118,7 +118,7 @@
    },
    "fields": {
     "title": "table",
-    "price": 33.99,
+    "price": 3000,
     "image": {
      "fields": {
       "file": {
